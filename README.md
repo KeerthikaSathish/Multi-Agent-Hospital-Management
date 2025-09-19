@@ -1,6 +1,6 @@
 # Project Title:
 
-## Multi-Agent Hospital Management System**
+## Multi-Agent Hospital Management System
 
 ### Objective:
 
