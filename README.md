@@ -18,7 +18,7 @@ To automate hospital scheduling and patient assignment using a multi-agent syste
 3.	Backup Agent: Redirects patients if the assigned doctor is unavailable.
 4.	Reporting Agent: Generates a daily schedule report in CSV format.
 
-### Here are the key features of your Multi-Agent Hospital Management project:
+### Features:
 
 1. Absence Handling
    Automatically identifies doctors who are unavailable due to absences.
@@ -35,12 +35,3 @@ To automate hospital scheduling and patient assignment using a multi-agent syste
 4. Reporting
    Generates a daily schedule report in CSV format.
    Includes patient details, assigned doctor, and specialization.
-
-
-
-
-
-
-
-patient_id	name	preferred_doctor	specialization	urgency	date	appointment_time	status	age
-
