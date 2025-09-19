@@ -1,0 +1,101 @@
+patient_id,name,preferred_doctor,specialization,urgency,date,appointment_time,status,age,gender,condition_summary,wait_time_minutes
+P001,Kimberly,D017,Oncology,Medium,11-10-2025,17:00,Confirmed,24,F,Headache,116
+P002,Julia,D016,Dermatology,High,14-09-2025,09:00,Pending,4,F,Chest pain,83
+P003,Kristina,D021,Oncology,Low,29-09-2025,08:30,Pending,74,M,Check-up,112
+P004,Alejandro,D011,Orthopedics,Low,14-09-2025,16:00,Confirmed,41,M,Diabetes,41
+P005,Ryan,D043,Pediatrics,High,10-10-2025,15:00,Pending,76,F,Back pain,62
+P006,Jose,D048,Orthopedics,Low,05-10-2025,12:00,Completed,3,F,Diabetes,101
+P007,Brian,D029,Orthopedics,High,18-09-2025,08:00,Confirmed,73,F,Check-up,99
+P008,Janet,D002,Cardiology,High,22-09-2025,12:00,Completed,58,M,Flu,109
+P009,Michael,D030,Dermatology,Medium,18-09-2025,09:30,Confirmed,10,F,Injury,67
+P010,Stacey,D011,Orthopedics,Medium,09-10-2025,16:00,Completed,36,F,Check-up,116
+P011,Bradley,D025,Dermatology,Low,14-09-2025,17:00,Confirmed,41,M,Check-up,21
+P012,Michael,D013,Oncology,Low,17-09-2025,17:30,Pending,67,F,Diabetes,106
+P013,Matthew,D019,Oncology,Medium,01-10-2025,15:30,Pending,87,F,Flu,9
+P014,Kristy,D005,Cardiology,High,16-09-2025,11:00,Completed,14,M,Chest pain,31
+P015,Kim,D037,Orthopedics,Medium,17-09-2025,13:00,Completed,64,M,Injury,9
+P016,Tara,D047,Oncology,Low,29-09-2025,13:30,Pending,70,M,Flu,92
+P017,Matthew,D047,Oncology,High,29-09-2025,16:30,Completed,33,M,Injury,86
+P018,Isabella,D002,Cardiology,Medium,04-10-2025,14:00,Completed,22,M,Headache,37
+P019,Claudia,D039,Neurology,High,04-10-2025,10:00,Confirmed,50,F,Diabetes,83
+P020,Lisa,D018,Pediatrics,Low,16-09-2025,15:00,Completed,9,M,Diabetes,80
+P021,Ashley,D033,Orthopedics,Medium,05-10-2025,13:00,Pending,89,F,Headache,51
+P022,Sheila,D049,Orthopedics,Low,23-09-2025,13:30,Confirmed,42,M,Flu,116
+P023,Jamie,D002,Cardiology,Low,25-09-2025,13:30,Confirmed,44,M,Check-up,13
+P024,Jonathan,D009,Oncology,Medium,29-09-2025,12:00,Confirmed,25,M,Back pain,62
+P025,Donna,D008,Pediatrics,Medium,15-09-2025,11:00,Confirmed,48,M,Back pain,109
+P026,Brian,D042,Oncology,Medium,23-09-2025,17:00,Completed,46,F,Headache,109
+P027,Grant,D038,Oncology,Medium,02-10-2025,15:00,Completed,71,M,Chest pain,77
+P028,Hannah,D016,Dermatology,High,22-09-2025,17:30,Pending,26,F,Chest pain,53
+P029,Monica,D032,Neurology,Medium,19-09-2025,11:30,Pending,4,F,Back pain,42
+P030,Katherine,D046,Cardiology,Low,23-09-2025,12:30,Confirmed,69,M,Back pain,12
+P031,Daniel,D001,Orthopedics,Low,01-10-2025,17:00,Confirmed,47,F,Diabetes,58
+P032,Jonathan,D043,Pediatrics,Medium,21-09-2025,08:30,Confirmed,20,F,Headache,108
+P033,Kristen,D026,Oncology,Low,09-10-2025,14:00,Pending,89,F,Headache,43
+P034,Ethan,D028,Pediatrics,Low,21-09-2025,15:00,Confirmed,70,F,Flu,53
+P035,Susan,D029,Orthopedics,High,04-10-2025,14:00,Completed,5,M,Diabetes,26
+P036,April,D044,Cardiology,High,11-10-2025,09:30,Pending,83,M,Diabetes,95
+P037,Cameron,D039,Neurology,High,18-09-2025,12:00,Pending,77,M,Check-up,110
+P038,Lisa,D025,Dermatology,Low,21-09-2025,12:00,Confirmed,13,F,Flu,23
+P039,Donald,D045,Pediatrics,Low,29-09-2025,11:00,Pending,8,F,Chest pain,54
+P040,Sandra,D028,Pediatrics,Medium,24-09-2025,14:30,Pending,15,M,Flu,115
+P041,Donna,D046,Cardiology,Medium,17-09-2025,17:00,Pending,56,F,Check-up,76
+P042,Michelle,D026,Oncology,Medium,25-09-2025,15:00,Confirmed,3,M,Headache,64
+P043,Jasmine,D019,Oncology,Medium,27-09-2025,10:30,Completed,66,M,Chest pain,83
+P044,Regina,D034,Oncology,Low,13-09-2025,08:30,Pending,52,F,Diabetes,64
+P045,Stephanie,D012,Cardiology,Medium,22-09-2025,13:30,Confirmed,51,F,Back pain,39
+P046,Andrew,D042,Oncology,Medium,20-09-2025,14:30,Confirmed,20,F,Back pain,81
+P047,Jerome,D037,Orthopedics,High,10-10-2025,14:00,Pending,76,M,Chest pain,103
+P048,Ross,D014,Cardiology,Medium,16-09-2025,16:00,Pending,55,F,Diabetes,52
+P049,Elizabeth,D005,Cardiology,Medium,12-09-2025,12:30,Pending,64,M,Check-up,62
+P050,Veronica,D021,Oncology,Medium,20-09-2025,14:00,Completed,26,M,Flu,13
+P051,Laura,D027,Orthopedics,High,13-09-2025,11:30,Completed,50,M,Back pain,49
+P052,Katherine,D032,Neurology,High,20-09-2025,14:00,Confirmed,75,M,Injury,7
+P053,Mark,D019,Oncology,High,03-10-2025,13:30,Completed,46,M,Flu,63
+P054,Rachel,D009,Oncology,Low,18-09-2025,16:30,Confirmed,79,M,Flu,91
+P055,Debra,D042,Oncology,Low,01-10-2025,08:30,Confirmed,36,M,Chest pain,101
+P056,Mark,D026,Oncology,Low,16-09-2025,15:00,Confirmed,61,F,Check-up,9
+P057,Kenneth,D010,Oncology,Low,07-10-2025,13:30,Confirmed,11,F,Check-up,13
+P058,Justin,D019,Oncology,Low,14-09-2025,10:30,Pending,33,M,Headache,46
+P059,Crystal,D006,Orthopedics,Medium,19-09-2025,09:00,Confirmed,61,M,Injury,27
+P060,Edward,D049,Orthopedics,High,13-09-2025,14:30,Completed,57,M,Injury,9
+P061,Kevin,D025,Dermatology,High,09-10-2025,09:30,Confirmed,59,F,Flu,114
+P062,Grant,D044,Cardiology,High,04-10-2025,16:00,Completed,52,M,Headache,25
+P063,Carol,D006,Orthopedics,High,29-09-2025,09:00,Completed,88,M,Chest pain,9
+P064,Randy,D040,Dermatology,High,10-10-2025,16:30,Completed,87,M,Flu,83
+P065,Leah,D010,Oncology,Low,26-09-2025,16:30,Pending,5,F,Back pain,62
+P066,John,D034,Oncology,Medium,03-10-2025,10:00,Confirmed,3,M,Back pain,102
+P067,Jodi,D005,Cardiology,Low,14-09-2025,14:00,Confirmed,51,F,Headache,69
+P068,Angela,D011,Orthopedics,Medium,19-09-2025,11:30,Confirmed,33,M,Headache,52
+P069,David,D001,Orthopedics,Medium,14-09-2025,11:30,Confirmed,21,F,Injury,86
+P070,Ryan,D022,Dermatology,Low,19-09-2025,08:00,Pending,36,M,Chest pain,7
+P071,Christopher,D041,Orthopedics,Medium,09-10-2025,11:30,Confirmed,81,F,Flu,119
+P072,Joseph,D048,Orthopedics,Low,03-10-2025,17:00,Confirmed,84,F,Chest pain,75
+P073,Alex,D032,Neurology,Medium,02-10-2025,13:00,Confirmed,70,F,Check-up,46
+P074,Jason,D040,Dermatology,High,28-09-2025,08:30,Pending,60,M,Check-up,45
+P075,Laura,D011,Orthopedics,High,28-09-2025,11:00,Completed,71,M,Check-up,22
+P076,Nicholas,D034,Oncology,Medium,22-09-2025,17:00,Completed,49,F,Injury,79
+P077,Joseph,D012,Cardiology,High,12-09-2025,08:00,Pending,28,M,Diabetes,23
+P078,Bridget,D013,Oncology,Low,12-09-2025,10:30,Completed,63,M,Headache,49
+P079,Latoya,D003,Neurology,Low,18-09-2025,14:30,Pending,51,F,Chest pain,108
+P080,Lisa,D024,Oncology,High,07-10-2025,09:00,Confirmed,90,M,Injury,12
+P081,Amy,D021,Oncology,Medium,15-09-2025,10:00,Confirmed,15,M,Injury,42
+P082,Jacqueline,D049,Orthopedics,Medium,27-09-2025,15:30,Completed,5,F,Check-up,24
+P083,Peter,D002,Cardiology,Medium,12-09-2025,11:00,Pending,1,M,Headache,15
+P084,Malik,D027,Orthopedics,Low,16-09-2025,17:30,Completed,42,M,Headache,55
+P085,Brianna,D030,Dermatology,Medium,22-09-2025,12:00,Completed,59,M,Injury,97
+P086,Jeffrey,D044,Cardiology,Low,08-10-2025,17:00,Completed,79,F,Headache,15
+P087,Frederick,D032,Neurology,Medium,17-09-2025,12:30,Completed,20,F,Headache,18
+P088,Judy,D038,Oncology,High,12-09-2025,12:00,Confirmed,55,M,Check-up,67
+P089,Whitney,D039,Neurology,High,09-10-2025,13:30,Completed,41,M,Flu,12
+P090,Brandon,D032,Neurology,Medium,27-09-2025,15:00,Confirmed,89,M,Diabetes,31
+P091,April,D020,Oncology,Low,01-10-2025,12:30,Pending,83,M,Chest pain,27
+P092,Joshua,D018,Pediatrics,High,18-09-2025,09:30,Confirmed,38,M,Check-up,46
+P093,Sean,D015,Cardiology,High,17-09-2025,11:30,Confirmed,28,F,Diabetes,7
+P094,Amy,D019,Oncology,Medium,03-10-2025,11:30,Pending,73,F,Chest pain,62
+P095,Stephen,D018,Pediatrics,Medium,24-09-2025,10:30,Completed,43,M,Flu,73
+P096,Maria,D015,Cardiology,Medium,08-10-2025,17:30,Pending,78,F,Chest pain,45
+P097,Sergio,D031,Neurology,High,07-10-2025,16:00,Confirmed,10,F,Check-up,65
+P098,Sonya,D002,Cardiology,Medium,07-10-2025,17:00,Confirmed,57,F,Headache,80
+P099,Tammy,D006,Orthopedics,Low,09-10-2025,10:30,Pending,18,M,Back pain,71
+P100,Debbie,D011,Orthopedics,Medium,29-09-2025,13:00,Confirmed,21,F,Diabetes,20
