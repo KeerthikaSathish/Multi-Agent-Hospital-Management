@@ -1,3 +1,11 @@
+# Project Title:
+
+## Multi-Agent Hospital Management System**
+
+**Objective:**
+
+To automate hospital scheduling and patient assignment using a multi-agent system, ensuring that doctors’ absences are handled, patients are optimally assigned, and daily reports are generated efficiently.
+
 **Data Files**
 1.	doctor_absences.csv: absence_id, doctor_id, date, reason, duration_days, emergency_backup
 2.	doctors.csv: doctor_id, name, specialization, level, max_patients_per_day, experience_years, shift_start, shift_end, department
